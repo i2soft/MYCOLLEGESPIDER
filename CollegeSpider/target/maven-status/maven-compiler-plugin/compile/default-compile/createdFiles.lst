@@ -1,0 +1,13 @@
+com\collegespider\bean\RegistrationBean.class
+com\collegespider\dao\RegistrationDaoImpl.class
+com\collegespider\service\LoginService.class
+com\collegespider\controller\RegController.class
+com\collegespider\bean\LoginBean.class
+com\collegespider\service\RegistrationService.class
+com\collegespider\dao\LoginDao.class
+com\collegespider\controller\HomeController.class
+com\collegespider\domain\User.class
+com\collegespider\controller\LoginController.class
+com\collegespider\dao\LoginDaoImpl.class
+com\collegespider\dto\UserDTO.class
+com\collegespider\dao\RegistrationDao.class

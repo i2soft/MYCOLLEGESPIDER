@@ -1,0 +1,116 @@
+
+body{
+
+background-color:#EEEEEE;
+
+}
+#nhead{
+
+font:20px, Arial, Helvetica, Geneva, sans-serif;
+text-align:center; 
+background-color:;
+}
+#header{
+
+background-color:green;
+
+}
+#menu1{
+
+text-align:center;
+background-color:white;
+color:white;
+}
+.hh1{
+height:40px;
+background-color:#0D5077;
+}
+
+.hh2{
+background-color:#0D5077;
+}
+
+.events{
+
+color:black;
+background-color:;
+margin:;
+
+}
+
+
+.cll{
+color:#0D5077;
+font-size:14px;
+}
+
+#rotating-item-wrapper {
+	
+      position: relative;
+	
+      width: 100%;
+	
+      height: 450px;
+	  
+}
+
+.rotating-item {
+	
+      display: none;
+	
+      position: absolute;
+	
+      top: 0;
+	
+      left: 0;
+}
+.mmm{
+color:;
+
+}
+
+.mmm:hover{
+
+color:white;
+
+}
+
+.eventhlink{
+
+font-weight:bold;
+font-family: "Times New Roman", Times, sans-serifserif;
+font-size: 14px;
+}
+
+.mm{
+
+color: black;
+text-align:center;
+background-color:green;
+
+
+}
+
+footer{
+height:111px;
+background-color:#555555;
+color:white;
+}
+
+#side{
+
+background-color:white;
+
+}
+
+#forgotunameorpassword{
+
+background-color:#EEEEEE;
+}
+
+
+#bodymain{
+
+background-color:white;
+
+}
